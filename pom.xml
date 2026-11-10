@@ -41,7 +41,7 @@
         <!-- fastjson2 版本管理-->
         <fastjson2.version>2.0.47</fastjson2.version>
         <!-- guava 版本管理 -->
-        <guava.version>33.0.0-jre</guava.version>
+        <guava.version>33.7.1-jre</guava.version>
         <!-- 实体转化工具（mapstruct）版本管理 -->
         <mapstruct.version>1.5.5.Final</mapstruct.version>
         <!-- knife4j 版本管理 -->
